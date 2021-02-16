@@ -34,7 +34,7 @@ class TestPersona {
 	private static final int NUMERO_CUENTA_DESCUBIERTA=12341234;
 	private static final int SALDO_CUENTA_DESCUBIERTA=-1;
 
-	private static final char SEXO_MUJER='m';
+	private static final char SEXO_MUJER='f';
 	private static final char SEXO_HOMBRE='m';
 	private static final char SEXO_INDETERMINADO='i';
 	private static final String MENSAJE_PARA_MOSTRAR_SALDO = "Saldo actual: ";
